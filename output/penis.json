@@ -1,0 +1,42 @@
+[
+  {
+    "id": "anatomy",
+    "tags": [
+      "main-category",
+      "structure",
+      "body-parts"
+    ]
+  },
+  {
+    "id": "penis-disorders",
+    "tags": [
+      "main-category",
+      "health-issues",
+      "diseases"
+    ]
+  },
+  {
+    "id": "circumcision",
+    "tags": [
+      "main-category",
+      "procedure",
+      "surgery"
+    ]
+  },
+  {
+    "id": "penis-size",
+    "tags": [
+      "main-category",
+      "dimensions",
+      "male-characteristics"
+    ]
+  },
+  {
+    "id": "penis-function",
+    "tags": [
+      "main-category",
+      "biological-process",
+      "reproductive"
+    ]
+  }
+]

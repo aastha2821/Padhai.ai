@@ -1,0 +1,82 @@
+[
+  {
+    "id": "anatomy-structure",
+    "tags": [
+      "vagina",
+      "main-category",
+      "structure"
+    ]
+  },
+  {
+    "id": "vulva",
+    "tags": [
+      "vagina",
+      "main-category",
+      "adjacent-region"
+    ]
+  },
+  {
+    "id": "menstrual-cycle",
+    "tags": [
+      "vagina",
+      "reproductive-system",
+      "function"
+    ]
+  },
+  {
+    "id": "painful-intercourse",
+    "tags": [
+      "vagina",
+      "discomfort",
+      "sexual-activity"
+    ]
+  },
+  {
+    "id": "menstrual-disorders",
+    "tags": [
+      "vagina",
+      "reproductive-system",
+      "disease"
+    ]
+  },
+  {
+    "id": "childbirth",
+    "tags": [
+      "vagina",
+      "reproductive-system",
+      "delivery"
+    ]
+  },
+  {
+    "id": "lubrication",
+    "tags": [
+      "vagina",
+      "sexual-activity",
+      "fluid"
+    ]
+  },
+  {
+    "id": "pregnancy-changes",
+    "tags": [
+      "vagina",
+      "reproductive-system",
+      "pregnancy"
+    ]
+  },
+  {
+    "id": "sexually-transmitted-infections",
+    "tags": [
+      "vagina",
+      "sexual-activity",
+      "disease"
+    ]
+  },
+  {
+    "id": "contraception",
+    "tags": [
+      "vagina",
+      "reproductive-system",
+      "preventive"
+    ]
+  }
+]

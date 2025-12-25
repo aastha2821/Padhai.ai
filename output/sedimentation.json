@@ -1,0 +1,82 @@
+[
+  {
+    "id": "Sedimentation Processes",
+    "tags": [
+      "main-category",
+      "processes",
+      "sedimentation-mechanism"
+    ]
+  },
+  {
+    "id": "River Sedimentation",
+    "tags": [
+      "main-category",
+      "rivers",
+      "water-flow"
+    ]
+  },
+  {
+    "id": "Lake Sediments",
+    "tags": [
+      "main-category",
+      "lakes",
+      "aquatic-systems"
+    ]
+  },
+  {
+    "id": "Coastal Sedimentation",
+    "tags": [
+      "main-category",
+      "coastline",
+      "oceanographic-processes"
+    ]
+  },
+  {
+    "id": "Glacial Sedimentation",
+    "tags": [
+      "main-category",
+      "glaciers",
+      "cryogenic-processes"
+    ]
+  },
+  {
+    "id": "Suspended Sediment Load",
+    "tags": [
+      "main-category",
+      "transport",
+      "sediment-transportation"
+    ]
+  },
+  {
+    "id": "Grain Size Distribution",
+    "tags": [
+      "main-category",
+      "particles",
+      "sediment-analysis"
+    ]
+  },
+  {
+    "id": "Sedimentary Structures",
+    "tags": [
+      "main-category",
+      "geology",
+      "sedimentary-rock"
+    ]
+  },
+  {
+    "id": "Biogenic Sedimentation",
+    "tags": [
+      "main-category",
+      "biology",
+      "organic-matter"
+    ]
+  },
+  {
+    "id": "Chemical Weathering",
+    "tags": [
+      "main-category",
+      "weathering",
+      "physical-chemical-processes"
+    ]
+  }
+]

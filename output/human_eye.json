@@ -1,0 +1,126 @@
+[
+  {
+    "id": "structure-of-the-eye",
+    "tags": [
+      "main-category",
+      "anatomy",
+      "visual-perception"
+    ]
+  },
+  {
+    "id": "iris-and-pupil",
+    "tags": [
+      "main-category",
+      "eye-anatomy",
+      "color-vision"
+    ]
+  },
+  {
+    "id": "cornea-functions",
+    "tags": [
+      "main-category",
+      "eye-anatomy",
+      "refraction",
+      "transparency"
+    ]
+  },
+  {
+    "id": "retina-layers",
+    "tags": [
+      "main-category",
+      "eye-anatomy",
+      "photoreception",
+      "rods"
+    ]
+  },
+  {
+    "id": "lens-and-focus",
+    "tags": [
+      "main-category",
+      "eye-anatomy",
+      "focal-point",
+      "accommodation"
+    ]
+  },
+  {
+    "id": "visual-field-peripheral-vision",
+    "tags": [
+      "main-category",
+      "eye-anatomy",
+      "peripheral vision",
+      "blindspot"
+    ]
+  },
+  {
+    "id": "photoreceptor-rods-and-cones",
+    "tags": [
+      "main-category",
+      "eye-anatomy",
+      "color-vision",
+      "rods"
+    ]
+  },
+  {
+    "id": "optic-nerve-information-transmission",
+    "tags": [
+      "main-category",
+      "eye-anatomy",
+      "visual-perception",
+      "neural-network"
+    ]
+  },
+  {
+    "id": "blindness-and-vision-impairments",
+    "tags": [
+      "main-category",
+      "eye-health",
+      "visual-impairment",
+      "low-vision"
+    ]
+  },
+  {
+    "id": "eye-movements-saccade-and-tracking",
+    "tags": [
+      "main-category",
+      "eye-anatomy",
+      "eye-movement",
+      "smooth-eye-movement"
+    ]
+  },
+  {
+    "id": "ocular-muscle-control",
+    "tags": [
+      "main-category",
+      "eye-mechanics",
+      "extraocular muscles",
+      "blinking"
+    ]
+  },
+  {
+    "id": "eye-movements-and-eye-tracking",
+    "tags": [
+      "main-category",
+      "eye-anatomy",
+      "visual-perception",
+      "saccade-movement"
+    ]
+  },
+  {
+    "id": "vision-development-at-birth",
+    "tags": [
+      "main-category",
+      "human-biology",
+      "eye-development",
+      "infant-eyes"
+    ]
+  },
+  {
+    "id": "eye-health-and-aging",
+    "tags": [
+      "main-category",
+      "eye-care",
+      "age-related-changes",
+      "presbyopia"
+    ]
+  }
+]
